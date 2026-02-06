@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "threadline",
+			"path": "."
+		},
+		{
+			"name": "services",
+			"path": "../../Desktop/services"
+		},
+		{
+			"name": "screens",
+			"path": "../../Desktop/screens"
+		}
+	],
+	"settings": {}
+}
